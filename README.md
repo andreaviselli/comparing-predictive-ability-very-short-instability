@@ -4,6 +4,8 @@
 
 This replication package accompanies Iacone F., Rossini L. and Viselli A. (2025). Comparing predictive ability in presence of instability over a very short time. *The Econometrics Journal*.
 
+https://academic.oup.com/ectj/advance-article-abstract/doi/10.1093/ectj/utaf018/8238631?redirectedFrom=fulltext
+
 ## Data availability and provenance statements
 
 ### Statement about rights
